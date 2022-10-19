@@ -1,0 +1,16 @@
+{
+  "title": "Temporal Graph Learning Project",
+  "description": "Documentation for the Temporal Graph Learning project.",
+  "slug": "/category/temporal-graph-learning-project-1",
+  "permalink": "/docs/category/temporal-graph-learning-project-1",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/ht/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/tgl/overview"
+    }
+  }
+}

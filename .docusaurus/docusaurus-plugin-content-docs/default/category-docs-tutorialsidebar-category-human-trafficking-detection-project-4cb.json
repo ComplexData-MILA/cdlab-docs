@@ -1,0 +1,16 @@
+{
+  "title": "Human Trafficking Detection Project",
+  "description": "Documentation for the Temporal Graph Learning project.",
+  "slug": "/category/human-trafficking-detection-project",
+  "permalink": "/docs/category/human-trafficking-detection-project",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/ht/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/tgl/overview"
+    }
+  }
+}

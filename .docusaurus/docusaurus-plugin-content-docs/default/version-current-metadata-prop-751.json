@@ -1,0 +1,355 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "noIndex": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "tutorialSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/docs/intro",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Lab Resources",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/resources/overview",
+            "docId": "resources/overview"
+          },
+          {
+            "type": "category",
+            "label": "Compute Resources",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/resources/compute/overview",
+                "docId": "resources/compute/overview"
+              },
+              {
+                "type": "category",
+                "label": "MILA",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/docs/resources/compute/mila/overview",
+                    "docId": "resources/compute/mila/overview"
+                  }
+                ],
+                "href": "/docs/category/mila"
+              },
+              {
+                "type": "category",
+                "label": "Compute Canada (HPC)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/docs/resources/compute/cc-hpc/overview",
+                    "docId": "resources/compute/cc-hpc/overview"
+                  }
+                ],
+                "href": "/docs/category/compute-canada-hpc"
+              },
+              {
+                "type": "category",
+                "label": "Compute Canada (Cloud)",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/docs/resources/compute/cc-cloud/overview",
+                    "docId": "resources/compute/cc-cloud/overview"
+                  }
+                ],
+                "href": "/docs/category/compute-canada-cloud"
+              },
+              {
+                "type": "category",
+                "label": "RL Lab",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/docs/resources/compute/rl/overview",
+                    "docId": "resources/compute/rl/overview"
+                  }
+                ],
+                "href": "/docs/category/rl-lab"
+              },
+              {
+                "type": "category",
+                "label": "Google Cloud Platform",
+                "collapsible": true,
+                "collapsed": true,
+                "items": [
+                  {
+                    "type": "link",
+                    "label": "Overview",
+                    "href": "/docs/resources/compute/gcp/overview",
+                    "docId": "resources/compute/gcp/overview"
+                  }
+                ],
+                "href": "/docs/category/google-cloud-platform"
+              }
+            ],
+            "href": "/docs/category/compute-resources"
+          },
+          {
+            "type": "category",
+            "label": "Reading Group",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/resources/rg/overview",
+                "docId": "resources/rg/overview"
+              }
+            ],
+            "href": "/docs/category/reading-group"
+          },
+          {
+            "type": "link",
+            "label": "Meetings",
+            "href": "/docs/resources/meetings",
+            "docId": "resources/meetings"
+          }
+        ],
+        "href": "/docs/category/lab-resources"
+      },
+      {
+        "type": "category",
+        "label": "Human Trafficking Detection",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/proj-ht/overview",
+            "docId": "proj-ht/overview"
+          },
+          {
+            "type": "category",
+            "label": "Adversarial NER",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/proj-ht/ner/overview",
+                "docId": "proj-ht/ner/overview"
+              }
+            ],
+            "href": "/docs/category/adversarial-ner"
+          },
+          {
+            "type": "category",
+            "label": "Image Linking",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/proj-ht/image-linking/overview",
+                "docId": "proj-ht/image-linking/overview"
+              }
+            ],
+            "href": "/docs/category/image-linking"
+          },
+          {
+            "type": "category",
+            "label": "Inductive Link Prediction",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/proj-ht/ilp/overview",
+                "docId": "proj-ht/ilp/overview"
+              }
+            ],
+            "href": "/docs/category/inductive-link-prediction"
+          }
+        ],
+        "href": "/docs/category/human-trafficking-detection"
+      },
+      {
+        "type": "category",
+        "label": "Political Polarization",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/docs/proj-polarization/overview",
+            "docId": "proj-polarization/overview"
+          },
+          {
+            "type": "category",
+            "label": "Temporal Graph Learning",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/proj-polarization/tgl/overview",
+                "docId": "proj-polarization/tgl/overview"
+              }
+            ],
+            "href": "/docs/category/temporal-graph-learning"
+          },
+          {
+            "type": "category",
+            "label": "Misinformation Baselines",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/docs/proj-polarization/misinfo-baselines/overview",
+                "docId": "proj-polarization/misinfo-baselines/overview"
+              }
+            ],
+            "href": "/docs/category/misinformation-baselines"
+          }
+        ],
+        "href": "/docs/category/political-polarization"
+      }
+    ]
+  },
+  "docs": {
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ht/ilp/overview": {
+      "id": "proj-ht/ilp/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ht/image-linking/overview": {
+      "id": "proj-ht/image-linking/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ht/ner/overview": {
+      "id": "proj-ht/ner/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ht/overview": {
+      "id": "proj-ht/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-polarization/misinfo-baselines/overview": {
+      "id": "proj-polarization/misinfo-baselines/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-polarization/overview": {
+      "id": "proj-polarization/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-polarization/tgl/overview": {
+      "id": "proj-polarization/tgl/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/cc-cloud/overview": {
+      "id": "resources/compute/cc-cloud/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/cc-hpc/overview": {
+      "id": "resources/compute/cc-hpc/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/gcp/overview": {
+      "id": "resources/compute/gcp/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/mila/overview": {
+      "id": "resources/compute/mila/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/overview": {
+      "id": "resources/compute/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/compute/rl/overview": {
+      "id": "resources/compute/rl/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/meetings": {
+      "id": "resources/meetings",
+      "title": "Meetings",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/overview": {
+      "id": "resources/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "resources/rg/overview": {
+      "id": "resources/rg/overview",
+      "title": "Overview",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    }
+  }
+}

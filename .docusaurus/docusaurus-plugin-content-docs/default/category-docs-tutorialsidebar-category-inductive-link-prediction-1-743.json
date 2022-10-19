@@ -1,0 +1,16 @@
+{
+  "title": "Inductive Link Prediction",
+  "description": "Documentation for the Inductive Link Prediction project.",
+  "slug": "/category/inductive-link-prediction-1",
+  "permalink": "/docs/category/inductive-link-prediction-1",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ilp/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ner/overview"
+    }
+  }
+}

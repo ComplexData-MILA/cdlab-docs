@@ -1,0 +1,8 @@
+{
+  "label": "Image Linking",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for the Image Linking project."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Lab Resources",
+  "description": "Documentation for the Temporal Graph Learning project.",
+  "slug": "/category/lab-resources",
+  "permalink": "/docs/category/lab-resources",
+  "navigation": {
+    "previous": {
+      "title": "Introduction",
+      "permalink": "/docs/intro"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/resources/overview"
+    }
+  }
+}

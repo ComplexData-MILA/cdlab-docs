@@ -1,0 +1,16 @@
+{
+  "title": "Compute Canada (HPC)",
+  "description": "Reading group resources and information.",
+  "slug": "/category/compute-canada-hpc",
+  "permalink": "/docs/category/compute-canada-hpc",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/resources/compute/mila/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/resources/compute/cc-hpc/overview"
+    }
+  }
+}

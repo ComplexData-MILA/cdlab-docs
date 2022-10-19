@@ -1,0 +1,16 @@
+{
+  "title": "RL Lab",
+  "description": "Reading group resources and information.",
+  "slug": "/category/rl-lab",
+  "permalink": "/docs/category/rl-lab",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/resources/compute/cc-cloud/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/resources/compute/rl/overview"
+    }
+  }
+}

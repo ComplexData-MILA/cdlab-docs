@@ -1,0 +1,16 @@
+{
+  "title": "Adversarial ",
+  "description": "Documentation for the Inductive Link Prediction project.",
+  "slug": "/category/adversarial-",
+  "permalink": "/docs/category/adversarial-",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ilp/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ner/overview"
+    }
+  }
+}

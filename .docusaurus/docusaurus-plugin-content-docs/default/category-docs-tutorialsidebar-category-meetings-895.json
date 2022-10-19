@@ -1,0 +1,16 @@
+{
+  "title": "Meetings",
+  "description": "Times and resources for lab meetings.",
+  "slug": "/category/meetings",
+  "permalink": "/docs/category/meetings",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/resources/rg/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/resources/meetings/overview"
+    }
+  }
+}

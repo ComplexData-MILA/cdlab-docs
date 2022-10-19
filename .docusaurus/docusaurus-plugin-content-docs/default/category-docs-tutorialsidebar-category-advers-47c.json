@@ -1,0 +1,16 @@
+{
+  "title": "Advers",
+  "description": "Documentation for the Inductive Link Prediction project.",
+  "slug": "/category/advers",
+  "permalink": "/docs/category/advers",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ilp/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ner/overview"
+    }
+  }
+}

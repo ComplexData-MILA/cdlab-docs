@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proj-ht/image-linking/overview",
+  "id": "proj-ht/image-linking/overview",
+  "title": "Overview",
+  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "source": "@site/docs/proj-ht/image-linking/overview.md",
+  "sourceDirName": "proj-ht/image-linking",
+  "slug": "/proj-ht/image-linking/overview",
+  "permalink": "/docs/proj-ht/image-linking/overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/proj-ht/image-linking/overview.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Image Linking",
+    "permalink": "/docs/category/image-linking"
+  },
+  "next": {
+    "title": "Inductive Link Prediction",
+    "permalink": "/docs/category/inductive-link-prediction"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Adversarial NER",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for the Adversarial NER project."
+  }
+}

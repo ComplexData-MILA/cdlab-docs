@@ -1,0 +1,188 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ht/ilp/overview",
+              "path": "/docs/proj-ht/ilp/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ht/image-linking/overview",
+              "path": "/docs/proj-ht/image-linking/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ht/ner/overview",
+              "path": "/docs/proj-ht/ner/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ht/overview",
+              "path": "/docs/proj-ht/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-polarization/misinfo-baselines/overview",
+              "path": "/docs/proj-polarization/misinfo-baselines/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-polarization/overview",
+              "path": "/docs/proj-polarization/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-polarization/tgl/overview",
+              "path": "/docs/proj-polarization/tgl/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/cc-cloud/overview",
+              "path": "/docs/resources/compute/cc-cloud/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/cc-hpc/overview",
+              "path": "/docs/resources/compute/cc-hpc/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/gcp/overview",
+              "path": "/docs/resources/compute/gcp/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/mila/overview",
+              "path": "/docs/resources/compute/mila/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/overview",
+              "path": "/docs/resources/compute/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/compute/rl/overview",
+              "path": "/docs/resources/compute/rl/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/meetings",
+              "path": "/docs/resources/meetings",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/overview",
+              "path": "/docs/resources/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "resources/rg/overview",
+              "path": "/docs/resources/rg/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/lab-resources",
+              "path": "/docs/category/lab-resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/compute-resources",
+              "path": "/docs/category/compute-resources",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/mila",
+              "path": "/docs/category/mila",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/compute-canada-hpc",
+              "path": "/docs/category/compute-canada-hpc",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/compute-canada-cloud",
+              "path": "/docs/category/compute-canada-cloud",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/rl-lab",
+              "path": "/docs/category/rl-lab",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/google-cloud-platform",
+              "path": "/docs/category/google-cloud-platform",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/reading-group",
+              "path": "/docs/category/reading-group",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/human-trafficking-detection",
+              "path": "/docs/category/human-trafficking-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/adversarial-ner",
+              "path": "/docs/category/adversarial-ner",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/image-linking",
+              "path": "/docs/category/image-linking",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/inductive-link-prediction",
+              "path": "/docs/category/inductive-link-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/political-polarization",
+              "path": "/docs/category/political-polarization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/temporal-graph-learning",
+              "path": "/docs/category/temporal-graph-learning",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/misinformation-baselines",
+              "path": "/docs/category/misinformation-baselines",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

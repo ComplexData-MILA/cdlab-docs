@@ -1,0 +1,16 @@
+{
+  "title": "Political Polarization",
+  "description": "Documentation for the political polarization project.",
+  "slug": "/category/political-polarization",
+  "permalink": "/docs/category/political-polarization",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/proj-ht/ilp/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/proj-polarization/overview"
+    }
+  }
+}

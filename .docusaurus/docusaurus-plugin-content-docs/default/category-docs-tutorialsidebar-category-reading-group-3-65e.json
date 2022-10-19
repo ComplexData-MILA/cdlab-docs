@@ -1,0 +1,16 @@
+{
+  "title": "Reading Group",
+  "description": "Reading group resources and information.",
+  "slug": "/category/reading-group-3",
+  "permalink": "/docs/category/reading-group-3",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/docs/resources/compute/rl/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/docs/resources/rg/overview"
+    }
+  }
+}

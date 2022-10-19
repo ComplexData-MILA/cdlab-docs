@@ -1,0 +1,331 @@
+{
+  "/__docusaurus/debug-45a": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/__docusaurus/debug/config-a70": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/__docusaurus/debug/content-993": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    },
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/__docusaurus/debug/globalData-3c2": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/__docusaurus/debug/metadata-6b2": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/__docusaurus/debug/registry-1a8": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/__docusaurus/debug/routes-65e": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/blog-9bc": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "metadata": "metadata---blogb-2-b-df1"
+  },
+  "/blog/archive-3bb": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "archive": "archive---blog-archiveb-2-f-393"
+  },
+  "/blog/first-blog-post-a6e": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
+  },
+  "/blog/long-blog-post-aea": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
+  },
+  "/blog/mdx-blog-post-ba1": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
+  },
+  "/blog/tags-f45": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---blog-tagsa-70-da2"
+  },
+  "/blog/tags/docusaurus-300": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blogf-4-f-cd7"
+      },
+      {
+        "content": "content---blog-871-381"
+      },
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-docusaurusa-80-728",
+    "listMetadata": "listMetadata---blog-tags-docusaurus-608-c09"
+  },
+  "/blog/tags/facebook-4b1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      }
+    ],
+    "tag": "tag---blog-tags-facebook-031-c52",
+    "listMetadata": "listMetadata---blog-tags-facebook-096-d31"
+  },
+  "/blog/tags/hello-e34": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-766-e3c"
+      },
+      {
+        "content": "content---blog-871-381"
+      }
+    ],
+    "tag": "tag---blog-tags-hello-30-a-bed",
+    "listMetadata": "listMetadata---blog-tags-hello-664-70a"
+  },
+  "/blog/tags/hola-de1": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "items": [
+      {
+        "content": "content---blog-925-e00"
+      }
+    ],
+    "tag": "tag---blog-tags-holae-16-18a",
+    "listMetadata": "listMetadata---blog-tags-hola-4-c-9-a24"
+  },
+  "/blog/welcome-93b": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
+  },
+  "/markdown-page-570": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-page-2-ab-70e"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-a8e": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
+    "__context": {
+      "plugin": "plugin---docs-316-03c"
+    },
+    "versionMetadata": "versionMetadata---docs-935-398"
+  },
+  "/docs/category/adversarial-ner-da3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-adversarial-nerbee-6a4"
+  },
+  "/docs/category/compute-canada-cloud-d79": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-compute-canada-cloud-730-f5f"
+  },
+  "/docs/category/compute-canada-hpc-f09": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-compute-canada-hpca-9-f-707"
+  },
+  "/docs/category/compute-resources-7b3": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-compute-resourcesf-73-f97"
+  },
+  "/docs/category/google-cloud-platform-340": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-google-cloud-platformc-14-e26"
+  },
+  "/docs/category/human-trafficking-detection-19c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-human-trafficking-detection-6-e-6-f1d"
+  },
+  "/docs/category/image-linking-b67": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-image-linking-16-a-afd"
+  },
+  "/docs/category/inductive-link-prediction-685": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-inductive-link-prediction-028-20c"
+  },
+  "/docs/category/lab-resources-515": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-lab-resourcese-1-d-787"
+  },
+  "/docs/category/mila-008": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-milaf-61-30f"
+  },
+  "/docs/category/misinformation-baselines-031": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-misinformation-baselinesbed-bf9"
+  },
+  "/docs/category/political-polarization-f67": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-political-polarization-7-f-8-b41"
+  },
+  "/docs/category/reading-group-06a": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-reading-group-109-20d"
+  },
+  "/docs/category/rl-lab-bd8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-rl-lab-662-da0"
+  },
+  "/docs/category/temporal-graph-learning-4eb": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---docs-category-temporal-graph-learning-012-3b3"
+  },
+  "/docs/intro-aed": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/proj-ht/ilp/overview-9e8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-ilp-overview-233-985"
+  },
+  "/docs/proj-ht/image-linking/overview-2b4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-image-linking-overviewb-0-d-edb"
+  },
+  "/docs/proj-ht/ner/overview-d06": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-ner-overview-9-af-50f"
+  },
+  "/docs/proj-ht/overview-5a0": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-overview-497-a81"
+  },
+  "/docs/proj-polarization/misinfo-baselines/overview-5d4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-misinfo-baselines-overview-68-b-bfc"
+  },
+  "/docs/proj-polarization/overview-b48": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-overview-471-e2f"
+  },
+  "/docs/proj-polarization/tgl/overview-f0e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-tgl-overview-5-a-5-b32"
+  },
+  "/docs/resources/compute/cc-cloud/overview-b13": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-cc-cloud-overviewc-05-88f"
+  },
+  "/docs/resources/compute/cc-hpc/overview-28f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-cc-hpc-overview-468-dfb"
+  },
+  "/docs/resources/compute/gcp/overview-6bb": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-gcp-overview-74-f-a1f"
+  },
+  "/docs/resources/compute/mila/overview-3ee": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-mila-overview-674-5ac"
+  },
+  "/docs/resources/compute/overview-c63": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-overview-1-dd-b55"
+  },
+  "/docs/resources/compute/rl/overview-4f4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-rl-overview-08-a-1a5"
+  },
+  "/docs/resources/meetings-176": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-meetingsd-6-a-2a4"
+  },
+  "/docs/resources/overview-f36": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-overview-532-6b0"
+  },
+  "/docs/resources/rg/overview-ac8": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-rg-overview-6-c-8-dc1"
+  },
+  "/-43d": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-page-2-ab-70e"
+    },
+    "config": "config---5-e-9-4f3"
+  }
+}

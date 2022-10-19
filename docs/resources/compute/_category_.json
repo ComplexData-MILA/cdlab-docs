@@ -1,0 +1,8 @@
+{
+  "label": "Compute Resources",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Documentation for the lab's compute resources."
+  }
+}
