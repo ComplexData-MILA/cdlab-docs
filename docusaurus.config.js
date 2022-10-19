@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Complex Data Lab',
   tagline: 'Resources and documentation for lab projects',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  url: 'http://complexdata-mila.github.io/',
+  baseUrl: '/cdlab-docs',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
