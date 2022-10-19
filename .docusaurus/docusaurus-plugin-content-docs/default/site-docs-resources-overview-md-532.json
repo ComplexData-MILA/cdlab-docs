@@ -6,7 +6,7 @@
   "source": "@site/docs/resources/overview.md",
   "sourceDirName": "resources",
   "slug": "/resources/overview",
-  "permalink": "/docs/resources/overview",
+  "permalink": "/cdlab-docs/docs/resources/overview",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/overview.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Lab Resources",
-    "permalink": "/docs/category/lab-resources"
+    "permalink": "/cdlab-docs/docs/category/lab-resources"
   },
   "next": {
     "title": "Compute Resources",
-    "permalink": "/docs/category/compute-resources"
+    "permalink": "/cdlab-docs/docs/category/compute-resources"
   }
 }

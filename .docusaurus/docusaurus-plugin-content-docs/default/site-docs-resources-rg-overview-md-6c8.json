@@ -6,7 +6,7 @@
   "source": "@site/docs/resources/rg/overview.md",
   "sourceDirName": "resources/rg",
   "slug": "/resources/rg/overview",
-  "permalink": "/docs/resources/rg/overview",
+  "permalink": "/cdlab-docs/docs/resources/rg/overview",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/resources/rg/overview.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Reading Group",
-    "permalink": "/docs/category/reading-group"
+    "permalink": "/cdlab-docs/docs/category/reading-group"
   },
   "next": {
     "title": "Meetings",
-    "permalink": "/docs/resources/meetings"
+    "permalink": "/cdlab-docs/docs/resources/meetings"
   }
 }

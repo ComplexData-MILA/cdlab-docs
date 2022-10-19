@@ -12,7 +12,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/docs/intro",
+        "href": "/cdlab-docs/docs/intro",
         "docId": "intro"
       },
       {
@@ -24,7 +24,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/resources/overview",
+            "href": "/cdlab-docs/docs/resources/overview",
             "docId": "resources/overview"
           },
           {
@@ -36,7 +36,7 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/resources/compute/overview",
+                "href": "/cdlab-docs/docs/resources/compute/overview",
                 "docId": "resources/compute/overview"
               },
               {
@@ -48,11 +48,11 @@
                   {
                     "type": "link",
                     "label": "Overview",
-                    "href": "/docs/resources/compute/mila/overview",
+                    "href": "/cdlab-docs/docs/resources/compute/mila/overview",
                     "docId": "resources/compute/mila/overview"
                   }
                 ],
-                "href": "/docs/category/mila"
+                "href": "/cdlab-docs/docs/category/mila"
               },
               {
                 "type": "category",
@@ -63,11 +63,11 @@
                   {
                     "type": "link",
                     "label": "Overview",
-                    "href": "/docs/resources/compute/cc-hpc/overview",
+                    "href": "/cdlab-docs/docs/resources/compute/cc-hpc/overview",
                     "docId": "resources/compute/cc-hpc/overview"
                   }
                 ],
-                "href": "/docs/category/compute-canada-hpc"
+                "href": "/cdlab-docs/docs/category/compute-canada-hpc"
               },
               {
                 "type": "category",
@@ -78,11 +78,11 @@
                   {
                     "type": "link",
                     "label": "Overview",
-                    "href": "/docs/resources/compute/cc-cloud/overview",
+                    "href": "/cdlab-docs/docs/resources/compute/cc-cloud/overview",
                     "docId": "resources/compute/cc-cloud/overview"
                   }
                 ],
-                "href": "/docs/category/compute-canada-cloud"
+                "href": "/cdlab-docs/docs/category/compute-canada-cloud"
               },
               {
                 "type": "category",
@@ -93,11 +93,11 @@
                   {
                     "type": "link",
                     "label": "Overview",
-                    "href": "/docs/resources/compute/rl/overview",
+                    "href": "/cdlab-docs/docs/resources/compute/rl/overview",
                     "docId": "resources/compute/rl/overview"
                   }
                 ],
-                "href": "/docs/category/rl-lab"
+                "href": "/cdlab-docs/docs/category/rl-lab"
               },
               {
                 "type": "category",
@@ -108,14 +108,14 @@
                   {
                     "type": "link",
                     "label": "Overview",
-                    "href": "/docs/resources/compute/gcp/overview",
+                    "href": "/cdlab-docs/docs/resources/compute/gcp/overview",
                     "docId": "resources/compute/gcp/overview"
                   }
                 ],
-                "href": "/docs/category/google-cloud-platform"
+                "href": "/cdlab-docs/docs/category/google-cloud-platform"
               }
             ],
-            "href": "/docs/category/compute-resources"
+            "href": "/cdlab-docs/docs/category/compute-resources"
           },
           {
             "type": "category",
@@ -126,20 +126,20 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/resources/rg/overview",
+                "href": "/cdlab-docs/docs/resources/rg/overview",
                 "docId": "resources/rg/overview"
               }
             ],
-            "href": "/docs/category/reading-group"
+            "href": "/cdlab-docs/docs/category/reading-group"
           },
           {
             "type": "link",
             "label": "Meetings",
-            "href": "/docs/resources/meetings",
+            "href": "/cdlab-docs/docs/resources/meetings",
             "docId": "resources/meetings"
           }
         ],
-        "href": "/docs/category/lab-resources"
+        "href": "/cdlab-docs/docs/category/lab-resources"
       },
       {
         "type": "category",
@@ -150,7 +150,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/proj-ht/overview",
+            "href": "/cdlab-docs/docs/proj-ht/overview",
             "docId": "proj-ht/overview"
           },
           {
@@ -162,11 +162,11 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/proj-ht/ner/overview",
+                "href": "/cdlab-docs/docs/proj-ht/ner/overview",
                 "docId": "proj-ht/ner/overview"
               }
             ],
-            "href": "/docs/category/adversarial-ner"
+            "href": "/cdlab-docs/docs/category/adversarial-ner"
           },
           {
             "type": "category",
@@ -177,11 +177,11 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/proj-ht/image-linking/overview",
+                "href": "/cdlab-docs/docs/proj-ht/image-linking/overview",
                 "docId": "proj-ht/image-linking/overview"
               }
             ],
-            "href": "/docs/category/image-linking"
+            "href": "/cdlab-docs/docs/category/image-linking"
           },
           {
             "type": "category",
@@ -192,14 +192,14 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/proj-ht/ilp/overview",
+                "href": "/cdlab-docs/docs/proj-ht/ilp/overview",
                 "docId": "proj-ht/ilp/overview"
               }
             ],
-            "href": "/docs/category/inductive-link-prediction"
+            "href": "/cdlab-docs/docs/category/inductive-link-prediction"
           }
         ],
-        "href": "/docs/category/human-trafficking-detection"
+        "href": "/cdlab-docs/docs/category/human-trafficking-detection"
       },
       {
         "type": "category",
@@ -210,7 +210,7 @@
           {
             "type": "link",
             "label": "Overview",
-            "href": "/docs/proj-polarization/overview",
+            "href": "/cdlab-docs/docs/proj-polarization/overview",
             "docId": "proj-polarization/overview"
           },
           {
@@ -222,11 +222,11 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/proj-polarization/tgl/overview",
+                "href": "/cdlab-docs/docs/proj-polarization/tgl/overview",
                 "docId": "proj-polarization/tgl/overview"
               }
             ],
-            "href": "/docs/category/temporal-graph-learning"
+            "href": "/cdlab-docs/docs/category/temporal-graph-learning"
           },
           {
             "type": "category",
@@ -237,14 +237,14 @@
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/docs/proj-polarization/misinfo-baselines/overview",
+                "href": "/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview",
                 "docId": "proj-polarization/misinfo-baselines/overview"
               }
             ],
-            "href": "/docs/category/misinformation-baselines"
+            "href": "/cdlab-docs/docs/category/misinformation-baselines"
           }
         ],
-        "href": "/docs/category/political-polarization"
+        "href": "/cdlab-docs/docs/category/political-polarization"
       }
     ]
   },

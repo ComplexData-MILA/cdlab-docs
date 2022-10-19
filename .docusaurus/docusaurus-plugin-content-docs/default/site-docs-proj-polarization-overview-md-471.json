@@ -6,7 +6,7 @@
   "source": "@site/docs/proj-polarization/overview.md",
   "sourceDirName": "proj-polarization",
   "slug": "/proj-polarization/overview",
-  "permalink": "/docs/proj-polarization/overview",
+  "permalink": "/cdlab-docs/docs/proj-polarization/overview",
   "draft": false,
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/proj-polarization/overview.md",
   "tags": [],
@@ -18,10 +18,10 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Political Polarization",
-    "permalink": "/docs/category/political-polarization"
+    "permalink": "/cdlab-docs/docs/category/political-polarization"
   },
   "next": {
     "title": "Temporal Graph Learning",
-    "permalink": "/docs/category/temporal-graph-learning"
+    "permalink": "/cdlab-docs/docs/category/temporal-graph-learning"
   }
 }

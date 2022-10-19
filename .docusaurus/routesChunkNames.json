@@ -1,288 +1,331 @@
 {
-  "/blog-9bc": {
-    "__comp": "a6aa9e1f",
+  "/cdlab-docs/__docusaurus/debug-f19": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/__docusaurus/debug/config-3c3": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/__docusaurus/debug/content-cab": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
     },
-    "sidebar": "814f3328",
+    "allContent": "allContent---docusaurus-debug-content-246-9aa"
+  },
+  "/cdlab-docs/__docusaurus/debug/globalData-3ab": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/__docusaurus/debug/metadata-f0c": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/__docusaurus/debug/registry-d1a": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/__docusaurus/debug/routes-949": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugff-5-d73"
+    }
+  },
+  "/cdlab-docs/blog-b13": {
+    "__comp": "__comp---theme-blog-list-pagea-6-a-7ba",
+    "__context": {
+      "plugin": "plugin---blogf-47-8c9"
+    },
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "metadata": "b2b675dd"
+    "metadata": "metadata---cdlab-docs-blogecb-d25"
   },
-  "/blog/archive-3bb": {
-    "__comp": "9e4087bc",
+  "/cdlab-docs/blog/archive-339": {
+    "__comp": "__comp---theme-blog-archive-page-9-e-4-1d8",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "archive": "b2f554cd"
+    "archive": "archive---cdlab-docs-blog-archive-38-c-0ac"
   },
-  "/blog/first-blog-post-a6e": {
-    "__comp": "ccc49370",
+  "/cdlab-docs/blog/first-blog-post-17a": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
-    "content": "e273c56f"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-first-blog-poste-27-4a1"
   },
-  "/blog/long-blog-post-aea": {
-    "__comp": "ccc49370",
+  "/cdlab-docs/blog/long-blog-post-0f0": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
-    "content": "73664a40"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-long-blog-post-736-bc7"
   },
-  "/blog/mdx-blog-post-ba1": {
-    "__comp": "ccc49370",
+  "/cdlab-docs/blog/mdx-blog-post-4c3": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
-    "content": "59362658"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-mdx-blog-post-593-37b"
   },
-  "/blog/tags-f45": {
-    "__comp": "01a85c17",
+  "/cdlab-docs/blog/tags-ebe": {
+    "__comp": "__comp---theme-blog-tags-list-page-01-a-d0b",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
-    "tags": "a7023ddc"
+    "sidebar": "sidebar---blog-814-8ac",
+    "tags": "tags---cdlab-docs-blog-tags-69-e-86e"
   },
-  "/blog/tags/docusaurus-300": {
-    "__comp": "6875c492",
+  "/cdlab-docs/blog/tags/docusaurus-24f": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "f4f34a3a"
+        "content": "content---blogf-4-f-cd7"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       },
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "a80da1cf",
-    "listMetadata": "608ae6a4"
+    "tag": "tag---cdlab-docs-blog-tags-docusaurusb-9-a-5b2",
+    "listMetadata": "listMetadata---cdlab-docs-blog-tags-docusaurus-118-9dd"
   },
-  "/blog/tags/facebook-4b1": {
-    "__comp": "6875c492",
+  "/cdlab-docs/blog/tags/facebook-756": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       }
     ],
-    "tag": "031793e1",
-    "listMetadata": "096bfee4"
+    "tag": "tag---cdlab-docs-blog-tags-facebook-4-de-c37",
+    "listMetadata": "listMetadata---cdlab-docs-blog-tags-facebook-231-d63"
   },
-  "/blog/tags/hello-e34": {
-    "__comp": "6875c492",
+  "/cdlab-docs/blog/tags/hello-c8e": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "7661071f"
+        "content": "content---blog-766-e3c"
       },
       {
-        "content": "8717b14a"
+        "content": "content---blog-871-381"
       }
     ],
-    "tag": "30a24c52",
-    "listMetadata": "66406991"
+    "tag": "tag---cdlab-docs-blog-tags-hello-66-d-edb",
+    "listMetadata": "listMetadata---cdlab-docs-blog-tags-hellod-59-4a1"
   },
-  "/blog/tags/hola-de1": {
-    "__comp": "6875c492",
+  "/cdlab-docs/blog/tags/hola-666": {
+    "__comp": "__comp---theme-blog-tags-posts-page-687-b6c",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
+    "sidebar": "sidebar---blog-814-8ac",
     "items": [
       {
-        "content": "925b3f96"
+        "content": "content---blog-925-e00"
       }
     ],
-    "tag": "e16015ca",
-    "listMetadata": "4c9e35b1"
+    "tag": "tag---cdlab-docs-blog-tags-hola-333-3b7",
+    "listMetadata": "listMetadata---cdlab-docs-blog-tags-holaebc-1b3"
   },
-  "/blog/welcome-93b": {
-    "__comp": "ccc49370",
+  "/cdlab-docs/blog/welcome-400": {
+    "__comp": "__comp---theme-blog-post-pageccc-cab",
     "__context": {
-      "plugin": "f47b781c"
+      "plugin": "plugin---blogf-47-8c9"
     },
-    "sidebar": "814f3328",
-    "content": "d9f32620"
+    "sidebar": "sidebar---blog-814-8ac",
+    "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/markdown-page-570": {
-    "__comp": "1f391b9e",
+  "/cdlab-docs/markdown-page-c06": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
     "__context": {
-      "plugin": "2abf60fb"
+      "plugin": "plugin---markdown-page-2-ab-70e"
     },
-    "content": "393be207"
+    "content": "content---markdown-page-393-028"
   },
-  "/docs-a8e": {
-    "__comp": "1be78505",
+  "/cdlab-docs/docs-a77": {
+    "__comp": "__comp---theme-doc-page-1-be-9be",
     "__context": {
-      "plugin": "31669cc4"
+      "plugin": "plugin---docs-316-03c"
     },
-    "versionMetadata": "935f2afb"
+    "versionMetadata": "versionMetadata---docs-935-398"
   },
-  "/docs/category/adversarial-ner-da3": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "bee4e87c"
+  "/cdlab-docs/docs/category/adversarial-ner-eb8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-adversarial-ner-5-a-8-60a"
   },
-  "/docs/category/compute-canada-cloud-d79": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7309737d"
+  "/cdlab-docs/docs/category/compute-canada-cloud-e4f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-compute-canada-cloudb-26-285"
   },
-  "/docs/category/compute-canada-hpc-f09": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "a9f825de"
+  "/cdlab-docs/docs/category/compute-canada-hpc-d97": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-compute-canada-hpc-2-d-5-34f"
   },
-  "/docs/category/compute-resources-7b3": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "f73d813e"
+  "/cdlab-docs/docs/category/compute-resources-06b": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-compute-resources-986-666"
   },
-  "/docs/category/google-cloud-platform-340": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "c148f18b"
+  "/cdlab-docs/docs/category/google-cloud-platform-438": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-google-cloud-platformaa-9-0f2"
   },
-  "/docs/category/human-trafficking-detection-19c": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "6e6d9324"
+  "/cdlab-docs/docs/category/human-trafficking-detection-1ef": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-human-trafficking-detectione-6-a-b9b"
   },
-  "/docs/category/image-linking-b67": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "16a9da70"
+  "/cdlab-docs/docs/category/image-linking-08f": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-image-linking-320-cbd"
   },
-  "/docs/category/inductive-link-prediction-685": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "02807660"
+  "/cdlab-docs/docs/category/inductive-link-prediction-b7c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-inductive-link-prediction-547-0f8"
   },
-  "/docs/category/lab-resources-515": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "e1d422d4"
+  "/cdlab-docs/docs/category/lab-resources-f9c": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-lab-resourcesf-27-bed"
   },
-  "/docs/category/mila-008": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "f616b200"
+  "/cdlab-docs/docs/category/mila-6d8": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-mila-470-a94"
   },
-  "/docs/category/misinformation-baselines-031": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "bed8ac0f"
+  "/cdlab-docs/docs/category/misinformation-baselines-a5d": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-misinformation-baselines-0-ed-6b9"
   },
-  "/docs/category/political-polarization-f67": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "7f82c358"
+  "/cdlab-docs/docs/category/political-polarization-e59": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-political-polarization-8-e-6-4f4"
   },
-  "/docs/category/reading-group-06a": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "109d2db9"
+  "/cdlab-docs/docs/category/reading-group-434": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-reading-group-85-b-a06"
   },
-  "/docs/category/rl-lab-bd8": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "6620491c"
+  "/cdlab-docs/docs/category/rl-lab-ece": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-rl-labe-8-c-640"
   },
-  "/docs/category/temporal-graph-learning-4eb": {
-    "__comp": "14eb3368",
-    "categoryGeneratedIndex": "01272c35"
+  "/cdlab-docs/docs/category/temporal-graph-learning-546": {
+    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
+    "categoryGeneratedIndex": "categoryGeneratedIndex---cdlab-docs-docs-category-temporal-graph-learning-7-b-8-aee"
   },
-  "/docs/intro-aed": {
-    "__comp": "17896441",
-    "content": "0e384e19"
+  "/cdlab-docs/docs/intro-507": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-intro-0-e-3-be1"
   },
-  "/docs/proj-ht/ilp/overview-9e8": {
-    "__comp": "17896441",
-    "content": "233ad3f1"
+  "/cdlab-docs/docs/proj-ht/ilp/overview-ebc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-ilp-overview-233-985"
   },
-  "/docs/proj-ht/image-linking/overview-2b4": {
-    "__comp": "17896441",
-    "content": "b0d5242f"
+  "/cdlab-docs/docs/proj-ht/image-linking/overview-7ca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-image-linking-overviewb-0-d-edb"
   },
-  "/docs/proj-ht/ner/overview-d06": {
-    "__comp": "17896441",
-    "content": "9af36ad0"
+  "/cdlab-docs/docs/proj-ht/ner/overview-131": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-ner-overview-9-af-50f"
   },
-  "/docs/proj-ht/overview-5a0": {
-    "__comp": "17896441",
-    "content": "49722c1a"
+  "/cdlab-docs/docs/proj-ht/overview-c28": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-ht-overview-497-a81"
   },
-  "/docs/proj-polarization/misinfo-baselines/overview-5d4": {
-    "__comp": "17896441",
-    "content": "68bbc2e0"
+  "/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview-a3b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-misinfo-baselines-overview-68-b-bfc"
   },
-  "/docs/proj-polarization/overview-b48": {
-    "__comp": "17896441",
-    "content": "471d9de7"
+  "/cdlab-docs/docs/proj-polarization/overview-428": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-overview-471-e2f"
   },
-  "/docs/proj-polarization/tgl/overview-f0e": {
-    "__comp": "17896441",
-    "content": "5a5cbaaf"
+  "/cdlab-docs/docs/proj-polarization/tgl/overview-67d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-proj-polarization-tgl-overview-5-a-5-b32"
   },
-  "/docs/resources/compute/cc-cloud/overview-b13": {
-    "__comp": "17896441",
-    "content": "c05fc99f"
+  "/cdlab-docs/docs/resources/compute/cc-cloud/overview-a23": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-cc-cloud-overviewc-05-88f"
   },
-  "/docs/resources/compute/cc-hpc/overview-28f": {
-    "__comp": "17896441",
-    "content": "46854729"
+  "/cdlab-docs/docs/resources/compute/cc-hpc/overview-3a3": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-cc-hpc-overview-468-dfb"
   },
-  "/docs/resources/compute/gcp/overview-6bb": {
-    "__comp": "17896441",
-    "content": "74faabb3"
+  "/cdlab-docs/docs/resources/compute/gcp/overview-9b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-gcp-overview-74-f-a1f"
   },
-  "/docs/resources/compute/mila/overview-3ee": {
-    "__comp": "17896441",
-    "content": "674dbd1f"
+  "/cdlab-docs/docs/resources/compute/mila/overview-05f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-mila-overview-674-5ac"
   },
-  "/docs/resources/compute/overview-c63": {
-    "__comp": "17896441",
-    "content": "1dd15853"
+  "/cdlab-docs/docs/resources/compute/overview-b1b": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-overview-1-dd-b55"
   },
-  "/docs/resources/compute/rl/overview-4f4": {
-    "__comp": "17896441",
-    "content": "08a08698"
+  "/cdlab-docs/docs/resources/compute/rl/overview-8be": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-compute-rl-overview-08-a-1a5"
   },
-  "/docs/resources/meetings-176": {
-    "__comp": "17896441",
-    "content": "d6a5d3b5"
+  "/cdlab-docs/docs/resources/meetings-ff4": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-meetingsd-6-a-2a4"
   },
-  "/docs/resources/overview-f36": {
-    "__comp": "17896441",
-    "content": "53228147"
+  "/cdlab-docs/docs/resources/overview-596": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-overview-532-6b0"
   },
-  "/docs/resources/rg/overview-ac8": {
-    "__comp": "17896441",
-    "content": "6c8db533"
+  "/cdlab-docs/docs/resources/rg/overview-5b9": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-resources-rg-overview-6-c-8-dc1"
   },
-  "/-43d": {
-    "__comp": "c4f5d8e4",
+  "/cdlab-docs/-ac1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
     "__context": {
-      "plugin": "2abf60fb"
+      "plugin": "plugin---markdown-page-2-ab-70e"
     },
-    "config": "5e9f5e1a"
+    "config": "config---5-e-9-4f3"
   }
 }

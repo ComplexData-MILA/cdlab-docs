@@ -3,266 +3,301 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
-    path: '/blog',
-    component: ComponentCreator('/blog', '9bc'),
+    path: '/cdlab-docs/__docusaurus/debug',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug', 'f19'),
     exact: true
   },
   {
-    path: '/blog/archive',
-    component: ComponentCreator('/blog/archive', '3bb'),
+    path: '/cdlab-docs/__docusaurus/debug/config',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/config', '3c3'),
     exact: true
   },
   {
-    path: '/blog/first-blog-post',
-    component: ComponentCreator('/blog/first-blog-post', 'a6e'),
+    path: '/cdlab-docs/__docusaurus/debug/content',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/content', 'cab'),
     exact: true
   },
   {
-    path: '/blog/long-blog-post',
-    component: ComponentCreator('/blog/long-blog-post', 'aea'),
+    path: '/cdlab-docs/__docusaurus/debug/globalData',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/globalData', '3ab'),
     exact: true
   },
   {
-    path: '/blog/mdx-blog-post',
-    component: ComponentCreator('/blog/mdx-blog-post', 'ba1'),
+    path: '/cdlab-docs/__docusaurus/debug/metadata',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/metadata', 'f0c'),
     exact: true
   },
   {
-    path: '/blog/tags',
-    component: ComponentCreator('/blog/tags', 'f45'),
+    path: '/cdlab-docs/__docusaurus/debug/registry',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/registry', 'd1a'),
     exact: true
   },
   {
-    path: '/blog/tags/docusaurus',
-    component: ComponentCreator('/blog/tags/docusaurus', '300'),
+    path: '/cdlab-docs/__docusaurus/debug/routes',
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/routes', '949'),
     exact: true
   },
   {
-    path: '/blog/tags/facebook',
-    component: ComponentCreator('/blog/tags/facebook', '4b1'),
+    path: '/cdlab-docs/blog',
+    component: ComponentCreator('/cdlab-docs/blog', 'b13'),
     exact: true
   },
   {
-    path: '/blog/tags/hello',
-    component: ComponentCreator('/blog/tags/hello', 'e34'),
+    path: '/cdlab-docs/blog/archive',
+    component: ComponentCreator('/cdlab-docs/blog/archive', '339'),
     exact: true
   },
   {
-    path: '/blog/tags/hola',
-    component: ComponentCreator('/blog/tags/hola', 'de1'),
+    path: '/cdlab-docs/blog/first-blog-post',
+    component: ComponentCreator('/cdlab-docs/blog/first-blog-post', '17a'),
     exact: true
   },
   {
-    path: '/blog/welcome',
-    component: ComponentCreator('/blog/welcome', '93b'),
+    path: '/cdlab-docs/blog/long-blog-post',
+    component: ComponentCreator('/cdlab-docs/blog/long-blog-post', '0f0'),
     exact: true
   },
   {
-    path: '/markdown-page',
-    component: ComponentCreator('/markdown-page', '570'),
+    path: '/cdlab-docs/blog/mdx-blog-post',
+    component: ComponentCreator('/cdlab-docs/blog/mdx-blog-post', '4c3'),
     exact: true
   },
   {
-    path: '/docs',
-    component: ComponentCreator('/docs', 'a8e'),
+    path: '/cdlab-docs/blog/tags',
+    component: ComponentCreator('/cdlab-docs/blog/tags', 'ebe'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/blog/tags/docusaurus',
+    component: ComponentCreator('/cdlab-docs/blog/tags/docusaurus', '24f'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/blog/tags/facebook',
+    component: ComponentCreator('/cdlab-docs/blog/tags/facebook', '756'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/blog/tags/hello',
+    component: ComponentCreator('/cdlab-docs/blog/tags/hello', 'c8e'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/blog/tags/hola',
+    component: ComponentCreator('/cdlab-docs/blog/tags/hola', '666'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/blog/welcome',
+    component: ComponentCreator('/cdlab-docs/blog/welcome', '400'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/markdown-page',
+    component: ComponentCreator('/cdlab-docs/markdown-page', 'c06'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs',
+    component: ComponentCreator('/cdlab-docs/docs', 'a77'),
     routes: [
       {
-        path: '/docs/category/adversarial-ner',
-        component: ComponentCreator('/docs/category/adversarial-ner', 'da3'),
+        path: '/cdlab-docs/docs/category/adversarial-ner',
+        component: ComponentCreator('/cdlab-docs/docs/category/adversarial-ner', 'eb8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/compute-canada-cloud',
-        component: ComponentCreator('/docs/category/compute-canada-cloud', 'd79'),
+        path: '/cdlab-docs/docs/category/compute-canada-cloud',
+        component: ComponentCreator('/cdlab-docs/docs/category/compute-canada-cloud', 'e4f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/compute-canada-hpc',
-        component: ComponentCreator('/docs/category/compute-canada-hpc', 'f09'),
+        path: '/cdlab-docs/docs/category/compute-canada-hpc',
+        component: ComponentCreator('/cdlab-docs/docs/category/compute-canada-hpc', 'd97'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/compute-resources',
-        component: ComponentCreator('/docs/category/compute-resources', '7b3'),
+        path: '/cdlab-docs/docs/category/compute-resources',
+        component: ComponentCreator('/cdlab-docs/docs/category/compute-resources', '06b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/google-cloud-platform',
-        component: ComponentCreator('/docs/category/google-cloud-platform', '340'),
+        path: '/cdlab-docs/docs/category/google-cloud-platform',
+        component: ComponentCreator('/cdlab-docs/docs/category/google-cloud-platform', '438'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/human-trafficking-detection',
-        component: ComponentCreator('/docs/category/human-trafficking-detection', '19c'),
+        path: '/cdlab-docs/docs/category/human-trafficking-detection',
+        component: ComponentCreator('/cdlab-docs/docs/category/human-trafficking-detection', '1ef'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/image-linking',
-        component: ComponentCreator('/docs/category/image-linking', 'b67'),
+        path: '/cdlab-docs/docs/category/image-linking',
+        component: ComponentCreator('/cdlab-docs/docs/category/image-linking', '08f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/inductive-link-prediction',
-        component: ComponentCreator('/docs/category/inductive-link-prediction', '685'),
+        path: '/cdlab-docs/docs/category/inductive-link-prediction',
+        component: ComponentCreator('/cdlab-docs/docs/category/inductive-link-prediction', 'b7c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/lab-resources',
-        component: ComponentCreator('/docs/category/lab-resources', '515'),
+        path: '/cdlab-docs/docs/category/lab-resources',
+        component: ComponentCreator('/cdlab-docs/docs/category/lab-resources', 'f9c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/mila',
-        component: ComponentCreator('/docs/category/mila', '008'),
+        path: '/cdlab-docs/docs/category/mila',
+        component: ComponentCreator('/cdlab-docs/docs/category/mila', '6d8'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/misinformation-baselines',
-        component: ComponentCreator('/docs/category/misinformation-baselines', '031'),
+        path: '/cdlab-docs/docs/category/misinformation-baselines',
+        component: ComponentCreator('/cdlab-docs/docs/category/misinformation-baselines', 'a5d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/political-polarization',
-        component: ComponentCreator('/docs/category/political-polarization', 'f67'),
+        path: '/cdlab-docs/docs/category/political-polarization',
+        component: ComponentCreator('/cdlab-docs/docs/category/political-polarization', 'e59'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/reading-group',
-        component: ComponentCreator('/docs/category/reading-group', '06a'),
+        path: '/cdlab-docs/docs/category/reading-group',
+        component: ComponentCreator('/cdlab-docs/docs/category/reading-group', '434'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/rl-lab',
-        component: ComponentCreator('/docs/category/rl-lab', 'bd8'),
+        path: '/cdlab-docs/docs/category/rl-lab',
+        component: ComponentCreator('/cdlab-docs/docs/category/rl-lab', 'ece'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/category/temporal-graph-learning',
-        component: ComponentCreator('/docs/category/temporal-graph-learning', '4eb'),
+        path: '/cdlab-docs/docs/category/temporal-graph-learning',
+        component: ComponentCreator('/cdlab-docs/docs/category/temporal-graph-learning', '546'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/intro',
-        component: ComponentCreator('/docs/intro', 'aed'),
+        path: '/cdlab-docs/docs/intro',
+        component: ComponentCreator('/cdlab-docs/docs/intro', '507'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-ht/ilp/overview',
-        component: ComponentCreator('/docs/proj-ht/ilp/overview', '9e8'),
+        path: '/cdlab-docs/docs/proj-ht/ilp/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ht/ilp/overview', 'ebc'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-ht/image-linking/overview',
-        component: ComponentCreator('/docs/proj-ht/image-linking/overview', '2b4'),
+        path: '/cdlab-docs/docs/proj-ht/image-linking/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ht/image-linking/overview', '7ca'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-ht/ner/overview',
-        component: ComponentCreator('/docs/proj-ht/ner/overview', 'd06'),
+        path: '/cdlab-docs/docs/proj-ht/ner/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ht/ner/overview', '131'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-ht/overview',
-        component: ComponentCreator('/docs/proj-ht/overview', '5a0'),
+        path: '/cdlab-docs/docs/proj-ht/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ht/overview', 'c28'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-polarization/misinfo-baselines/overview',
-        component: ComponentCreator('/docs/proj-polarization/misinfo-baselines/overview', '5d4'),
+        path: '/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview', 'a3b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-polarization/overview',
-        component: ComponentCreator('/docs/proj-polarization/overview', 'b48'),
+        path: '/cdlab-docs/docs/proj-polarization/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/overview', '428'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/proj-polarization/tgl/overview',
-        component: ComponentCreator('/docs/proj-polarization/tgl/overview', 'f0e'),
+        path: '/cdlab-docs/docs/proj-polarization/tgl/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/tgl/overview', '67d'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/cc-cloud/overview',
-        component: ComponentCreator('/docs/resources/compute/cc-cloud/overview', 'b13'),
+        path: '/cdlab-docs/docs/resources/compute/cc-cloud/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/cc-cloud/overview', 'a23'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/cc-hpc/overview',
-        component: ComponentCreator('/docs/resources/compute/cc-hpc/overview', '28f'),
+        path: '/cdlab-docs/docs/resources/compute/cc-hpc/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/cc-hpc/overview', '3a3'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/gcp/overview',
-        component: ComponentCreator('/docs/resources/compute/gcp/overview', '6bb'),
+        path: '/cdlab-docs/docs/resources/compute/gcp/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/gcp/overview', '9b9'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/mila/overview',
-        component: ComponentCreator('/docs/resources/compute/mila/overview', '3ee'),
+        path: '/cdlab-docs/docs/resources/compute/mila/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/mila/overview', '05f'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/overview',
-        component: ComponentCreator('/docs/resources/compute/overview', 'c63'),
+        path: '/cdlab-docs/docs/resources/compute/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/overview', 'b1b'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/compute/rl/overview',
-        component: ComponentCreator('/docs/resources/compute/rl/overview', '4f4'),
+        path: '/cdlab-docs/docs/resources/compute/rl/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/compute/rl/overview', '8be'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/meetings',
-        component: ComponentCreator('/docs/resources/meetings', '176'),
+        path: '/cdlab-docs/docs/resources/meetings',
+        component: ComponentCreator('/cdlab-docs/docs/resources/meetings', 'ff4'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/overview',
-        component: ComponentCreator('/docs/resources/overview', 'f36'),
+        path: '/cdlab-docs/docs/resources/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/overview', '596'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/docs/resources/rg/overview',
-        component: ComponentCreator('/docs/resources/rg/overview', 'ac8'),
+        path: '/cdlab-docs/docs/resources/rg/overview',
+        component: ComponentCreator('/cdlab-docs/docs/resources/rg/overview', '5b9'),
         exact: true,
         sidebar: "tutorialSidebar"
       }
     ]
   },
   {
-    path: '/',
-    component: ComponentCreator('/', '43d'),
+    path: '/cdlab-docs/',
+    component: ComponentCreator('/cdlab-docs/', 'ac1'),
     exact: true
   },
   {
