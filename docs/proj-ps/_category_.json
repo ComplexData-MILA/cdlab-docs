@@ -1,8 +1,8 @@
 {
-  "label": "Political Polarization",
-  "position": 4,
+  "label": "Online Politics",
+  "position": 3,
   "link": {
     "type": "generated-index",
-    "description": "Documentation for the political polarization project."
+    "description": "Documentation for the Online Politics project."
   }
 }
