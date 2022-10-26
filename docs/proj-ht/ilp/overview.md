@@ -4,44 +4,6 @@ sidebar_position: 1
 
 # Overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Link prediction is a task with a variety of real-world applications, such as recommendation and data mining. Link prediction models are often transductive, meaning that they learn a fixed representation for each node in a graph. This is a powerful approach as it allows the representations to be pre-trained or optimized end-to-end with downstream objectives, but comes with apparent drawbacks that could limit their applicability in realistic settings where graphs evolve over time. As new nodes and edges appear, these models become stale, suggesting they may struggle to generalize to unseen nodes whose representations have not yet been optimized. An alternative approach is to perform inductive learning, which primarily relies on the presence of node attributes that are not always available in practice.
 
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The goal of this project is to quantify the limitations of transductive learning approaches to link prediction under an evolving distribution. We will evaluate these methods from both an intrinsic perspective by examining the changes in the learned representations relative to the evolution of the graph over time, as well as extrinsically, by measuring each model's ability to maintain its performance as time passes beyond the period in which it was originally trained. These experiments will yield insight into the ability of each model to generalize to unseen nodes and edges, deepening our understanding of generalization in graph representation learning methods and quantitatively demonstrating the need (or lack thereof) for "fresh" models that stay up-to-date with the graph as it evolves.
