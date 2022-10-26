@@ -12,4 +12,8 @@ In this project we study online social interactions and how they shape society. 
 * Detecting and understanding impacts of malicious users (bots, trolls) and coordinated groups
 * Misinformation detection
 
-For more information, contact Kellin.Pelrine@mila.quebec.
+For more information, please consult the subprojects in this category or contact Kellin.Pelrine@mila.quebec.
+
+# Team
+
+Coming soon

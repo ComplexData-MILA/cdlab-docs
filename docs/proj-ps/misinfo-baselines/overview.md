@@ -4,44 +4,12 @@ sidebar_position: 1
 
 # Overview
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Misinformation can have serious harms to public health, the economy, and more. To help counter it, we studied detection methods. We found simple language model baselines are competitive with or can even out-perform state-of-the-art methods. This is particularly the case when train and test data have similar content, corresponding to the real-world task of detecting and containing misinformation on an already known topic or conspiracy. We also found some existing datasets have flaws due to their collection process, particularly when examples of different classes (e.g. real and fake) are collected at different times.
 
-## Getting Started
+For more information, please contact Kellin.Pelrine@mila.quebec.
 
-Get started by **creating a new site**.
+# Publications
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+The Surprising Performance of Simple Baselines for Misinformation Detection.
+Kellin Pelrine, Jacob Danovitch (equal contribution), Reihaneh Rabbany. The Web Conference 2021. 
+https://arxiv.org/pdf/2104.06952.pdf
