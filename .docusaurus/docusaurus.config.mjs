@@ -26,7 +26,9 @@ export default {
       "classic",
       {
         "docs": {
-          "sidebarPath": "C:\\dev\\mcgill\\cdlab-docs\\sidebars.js",
+          "sidebarPath": "C:\\Users\\sheny\\Desktop\\cdlab-docs\\sidebars.js",
+          "showLastUpdateAuthor": true,
+          "showLastUpdateTime": true,
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "blog": {
@@ -34,7 +36,7 @@ export default {
           "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/"
         },
         "theme": {
-          "customCss": "C:\\dev\\mcgill\\cdlab-docs\\src\\css\\custom.css"
+          "customCss": "C:\\Users\\sheny\\Desktop\\cdlab-docs\\src\\css\\custom.css"
         }
       }
     ]

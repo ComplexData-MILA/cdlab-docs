@@ -4,102 +4,127 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/cdlab-docs/__docusaurus/debug',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug', 'f19'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug', 'ec0'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/config',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/config', '3c3'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/config', '551'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/content',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/content', 'cab'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/content', '97b'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/globalData',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/globalData', '3ab'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/globalData', '300'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/metadata',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/metadata', 'f0c'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/metadata', '068'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/registry',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/registry', 'd1a'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/registry', '35e'),
     exact: true
   },
   {
     path: '/cdlab-docs/__docusaurus/debug/routes',
-    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/routes', '949'),
+    component: ComponentCreator('/cdlab-docs/__docusaurus/debug/routes', '888'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog',
-    component: ComponentCreator('/cdlab-docs/blog', 'b13'),
+    component: ComponentCreator('/cdlab-docs/blog', 'fd7'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/archive',
-    component: ComponentCreator('/cdlab-docs/blog/archive', '339'),
+    component: ComponentCreator('/cdlab-docs/blog/archive', '7a9'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/first-blog-post',
-    component: ComponentCreator('/cdlab-docs/blog/first-blog-post', '17a'),
+    component: ComponentCreator('/cdlab-docs/blog/first-blog-post', '7fa'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/long-blog-post',
-    component: ComponentCreator('/cdlab-docs/blog/long-blog-post', '0f0'),
+    component: ComponentCreator('/cdlab-docs/blog/long-blog-post', 'e30'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/mdx-blog-post',
-    component: ComponentCreator('/cdlab-docs/blog/mdx-blog-post', '4c3'),
+    component: ComponentCreator('/cdlab-docs/blog/mdx-blog-post', '935'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/tags',
-    component: ComponentCreator('/cdlab-docs/blog/tags', 'ebe'),
+    component: ComponentCreator('/cdlab-docs/blog/tags', '285'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/tags/docusaurus',
-    component: ComponentCreator('/cdlab-docs/blog/tags/docusaurus', '24f'),
+    component: ComponentCreator('/cdlab-docs/blog/tags/docusaurus', '53a'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/tags/facebook',
-    component: ComponentCreator('/cdlab-docs/blog/tags/facebook', '756'),
+    component: ComponentCreator('/cdlab-docs/blog/tags/facebook', '46a'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/tags/hello',
-    component: ComponentCreator('/cdlab-docs/blog/tags/hello', 'c8e'),
+    component: ComponentCreator('/cdlab-docs/blog/tags/hello', 'fd2'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/tags/hola',
-    component: ComponentCreator('/cdlab-docs/blog/tags/hola', '666'),
+    component: ComponentCreator('/cdlab-docs/blog/tags/hola', 'b0d'),
     exact: true
   },
   {
     path: '/cdlab-docs/blog/welcome',
-    component: ComponentCreator('/cdlab-docs/blog/welcome', '400'),
+    component: ComponentCreator('/cdlab-docs/blog/welcome', '27b'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs/tags',
+    component: ComponentCreator('/cdlab-docs/docs/tags', '169'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs/tags/benchmark',
+    component: ComponentCreator('/cdlab-docs/docs/tags/benchmark', 'c8e'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs/tags/datasets',
+    component: ComponentCreator('/cdlab-docs/docs/tags/datasets', '25e'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs/tags/open-source',
+    component: ComponentCreator('/cdlab-docs/docs/tags/open-source', 'f2c'),
+    exact: true
+  },
+  {
+    path: '/cdlab-docs/docs/tags/temporal-graph',
+    component: ComponentCreator('/cdlab-docs/docs/tags/temporal-graph', '4a6'),
     exact: true
   },
   {
     path: '/cdlab-docs/markdown-page',
-    component: ComponentCreator('/cdlab-docs/markdown-page', 'c06'),
+    component: ComponentCreator('/cdlab-docs/markdown-page', '41f'),
     exact: true
   },
   {
     path: '/cdlab-docs/docs',
-    component: ComponentCreator('/cdlab-docs/docs', 'a77'),
+    component: ComponentCreator('/cdlab-docs/docs', 'f79'),
     routes: [
       {
         path: '/cdlab-docs/docs/category/adversarial-ner',
@@ -122,6 +147,18 @@ export default [
       {
         path: '/cdlab-docs/docs/category/compute-resources',
         component: ComponentCreator('/cdlab-docs/docs/category/compute-resources', '06b'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/category/covid-polarization',
+        component: ComponentCreator('/cdlab-docs/docs/category/covid-polarization', 'b6f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/category/dynamic-graph-benchmark',
+        component: ComponentCreator('/cdlab-docs/docs/category/dynamic-graph-benchmark', '36c'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -162,14 +199,26 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/cdlab-docs/docs/category/misinformation-baselines',
-        component: ComponentCreator('/cdlab-docs/docs/category/misinformation-baselines', 'a5d'),
+        path: '/cdlab-docs/docs/category/misinformation-detection',
+        component: ComponentCreator('/cdlab-docs/docs/category/misinformation-detection', 'ee6'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/cdlab-docs/docs/category/political-polarization',
-        component: ComponentCreator('/cdlab-docs/docs/category/political-polarization', 'e59'),
+        path: '/cdlab-docs/docs/category/online-politics',
+        component: ComponentCreator('/cdlab-docs/docs/category/online-politics', '6a3'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/category/party-prediction',
+        component: ComponentCreator('/cdlab-docs/docs/category/party-prediction', '074'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/category/polarization',
+        component: ComponentCreator('/cdlab-docs/docs/category/polarization', '841'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -198,6 +247,12 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
+        path: '/cdlab-docs/docs/proj-dgb/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-dgb/overview', 'b76'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
         path: '/cdlab-docs/docs/proj-ht/ilp/overview',
         component: ComponentCreator('/cdlab-docs/docs/proj-ht/ilp/overview', 'ebc'),
         exact: true,
@@ -222,20 +277,38 @@ export default [
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview',
-        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview', 'a3b'),
+        path: '/cdlab-docs/docs/proj-ps/covid/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ps/covid/overview', 'ee5'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/cdlab-docs/docs/proj-polarization/overview',
-        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/overview', '428'),
+        path: '/cdlab-docs/docs/proj-ps/misinfo-baselines/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ps/misinfo-baselines/overview', 'b02'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
       {
-        path: '/cdlab-docs/docs/proj-polarization/tgl/overview',
-        component: ComponentCreator('/cdlab-docs/docs/proj-polarization/tgl/overview', '67d'),
+        path: '/cdlab-docs/docs/proj-ps/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ps/overview', '4d1'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/proj-ps/party-prediction/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ps/party-prediction/overview', 'b5f'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/proj-ps/polarization/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-ps/polarization/overview', '537'),
+        exact: true,
+        sidebar: "tutorialSidebar"
+      },
+      {
+        path: '/cdlab-docs/docs/proj-tg/overview',
+        component: ComponentCreator('/cdlab-docs/docs/proj-tg/overview', 'c86'),
         exact: true,
         sidebar: "tutorialSidebar"
       },
@@ -297,7 +370,7 @@ export default [
   },
   {
     path: '/cdlab-docs/',
-    component: ComponentCreator('/cdlab-docs/', 'ac1'),
+    component: ComponentCreator('/cdlab-docs/', '50c'),
     exact: true
   },
   {

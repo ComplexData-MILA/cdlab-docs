@@ -1,0 +1,16 @@
+{
+  "title": "Compute Resources",
+  "description": "Documentation for the lab's compute resources.",
+  "slug": "/category/compute-resources",
+  "permalink": "/cdlab-docs/docs/category/compute-resources",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/resources/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/resources/compute/overview"
+    }
+  }
+}

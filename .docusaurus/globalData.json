@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "proj-dgb/overview",
+              "path": "/cdlab-docs/docs/proj-dgb/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "proj-ht/ilp/overview",
               "path": "/cdlab-docs/docs/proj-ht/ilp/overview",
               "sidebar": "tutorialSidebar"
@@ -36,18 +41,33 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "proj-polarization/misinfo-baselines/overview",
-              "path": "/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview",
+              "id": "proj-ps/covid/overview",
+              "path": "/cdlab-docs/docs/proj-ps/covid/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "proj-polarization/overview",
-              "path": "/cdlab-docs/docs/proj-polarization/overview",
+              "id": "proj-ps/misinfo-baselines/overview",
+              "path": "/cdlab-docs/docs/proj-ps/misinfo-baselines/overview",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "proj-polarization/tgl/overview",
-              "path": "/cdlab-docs/docs/proj-polarization/tgl/overview",
+              "id": "proj-ps/overview",
+              "path": "/cdlab-docs/docs/proj-ps/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ps/party-prediction/overview",
+              "path": "/cdlab-docs/docs/proj-ps/party-prediction/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-ps/polarization/overview",
+              "path": "/cdlab-docs/docs/proj-ps/polarization/overview",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "proj-tg/overview",
+              "path": "/cdlab-docs/docs/proj-tg/overview",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -156,8 +176,28 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/political-polarization",
-              "path": "/cdlab-docs/docs/category/political-polarization",
+              "id": "/category/online-politics",
+              "path": "/cdlab-docs/docs/category/online-politics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/covid-polarization",
+              "path": "/cdlab-docs/docs/category/covid-polarization",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/misinformation-detection",
+              "path": "/cdlab-docs/docs/category/misinformation-detection",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/party-prediction",
+              "path": "/cdlab-docs/docs/category/party-prediction",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/polarization",
+              "path": "/cdlab-docs/docs/category/polarization",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -166,8 +206,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "/category/misinformation-baselines",
-              "path": "/cdlab-docs/docs/category/misinformation-baselines",
+              "id": "/category/dynamic-graph-benchmark",
+              "path": "/cdlab-docs/docs/category/dynamic-graph-benchmark",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -1,0 +1,16 @@
+{
+  "title": "Temporal Graph Learning",
+  "description": "Documentation for the Temporal Graph Learning project.",
+  "slug": "/category/temporal-graph-learning",
+  "permalink": "/cdlab-docs/docs/category/temporal-graph-learning",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ps/polarization/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-tg/overview"
+    }
+  }
+}

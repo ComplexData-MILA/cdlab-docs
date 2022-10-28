@@ -1,0 +1,30 @@
+{
+  "unversionedId": "proj-ps/misinfo-baselines/overview",
+  "id": "proj-ps/misinfo-baselines/overview",
+  "title": "Overview",
+  "description": "Misinformation can have serious harms to public health, the economy, and more. To help counter it, we studied detection methods. We found simple language model baselines are competitive with or can even out-perform state-of-the-art methods. This is particularly the case when train and test data have similar content, corresponding to the real-world task of detecting and containing misinformation on an already known topic or conspiracy. We also found some existing datasets have flaws due to their collection process, particularly when examples of different classes (e.g. real and fake) are collected at different times.",
+  "source": "@site/docs/proj-ps/misinfo-baselines/overview.md",
+  "sourceDirName": "proj-ps/misinfo-baselines",
+  "slug": "/proj-ps/misinfo-baselines/overview",
+  "permalink": "/cdlab-docs/docs/proj-ps/misinfo-baselines/overview",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/proj-ps/misinfo-baselines/overview.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Misinformation Detection",
+    "permalink": "/cdlab-docs/docs/category/misinformation-detection"
+  },
+  "next": {
+    "title": "Party Prediction",
+    "permalink": "/cdlab-docs/docs/category/party-prediction"
+  }
+}

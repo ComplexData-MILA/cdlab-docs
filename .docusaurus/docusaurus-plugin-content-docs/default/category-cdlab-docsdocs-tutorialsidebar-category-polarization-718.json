@@ -1,0 +1,16 @@
+{
+  "title": "Polarization",
+  "description": "Documentation for the Polarization project.",
+  "slug": "/category/polarization",
+  "permalink": "/cdlab-docs/docs/category/polarization",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ps/party-prediction/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ps/polarization/overview"
+    }
+  }
+}

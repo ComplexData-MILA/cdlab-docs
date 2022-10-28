@@ -1,0 +1,27 @@
+{
+  "unversionedId": "proj-tg/overview copy",
+  "id": "proj-tg/overview copy",
+  "title": "Overview",
+  "description": "In this project we study online social interactions and how they shape society. Our team brings together researchers from both computer science and political science. Particular areas of interest include but are not limited to:",
+  "source": "@site/docs/proj-tg/overview copy.md",
+  "sourceDirName": "proj-tg",
+  "slug": "/proj-tg/overview copy",
+  "permalink": "/cdlab-docs/docs/proj-tg/overview copy",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/proj-tg/overview copy.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Temporal Graph Learning",
+    "permalink": "/cdlab-docs/docs/category/temporal-graph-learning"
+  },
+  "next": {
+    "title": "Overview",
+    "permalink": "/cdlab-docs/docs/proj-tg/overview"
+  }
+}

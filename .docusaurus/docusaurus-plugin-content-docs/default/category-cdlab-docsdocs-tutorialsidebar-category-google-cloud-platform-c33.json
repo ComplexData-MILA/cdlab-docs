@@ -1,0 +1,16 @@
+{
+  "title": "Google Cloud Platform",
+  "description": "Reading group resources and information.",
+  "slug": "/category/google-cloud-platform",
+  "permalink": "/cdlab-docs/docs/category/google-cloud-platform",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/resources/compute/rl/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/resources/compute/gcp/overview"
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "title": "Inductive Link Prediction",
+  "description": "Documentation for the Inductive Link Prediction project.",
+  "slug": "/category/inductive-link-prediction",
+  "permalink": "/cdlab-docs/docs/category/inductive-link-prediction",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/image-linking/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/ilp/overview"
+    }
+  }
+}

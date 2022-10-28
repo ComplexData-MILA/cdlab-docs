@@ -1,0 +1,16 @@
+{
+  "title": "Online Politics",
+  "description": "Documentation for the Online Politics project.",
+  "slug": "/category/online-politics",
+  "permalink": "/cdlab-docs/docs/category/online-politics",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/ilp/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ps/overview"
+    }
+  }
+}

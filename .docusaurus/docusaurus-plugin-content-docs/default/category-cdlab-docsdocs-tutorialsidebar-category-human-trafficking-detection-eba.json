@@ -1,0 +1,16 @@
+{
+  "title": "Human Trafficking Detection",
+  "description": "Documentation for the Human Trafficking Detection project.",
+  "slug": "/category/human-trafficking-detection",
+  "permalink": "/cdlab-docs/docs/category/human-trafficking-detection",
+  "navigation": {
+    "previous": {
+      "title": "Meetings",
+      "permalink": "/cdlab-docs/docs/resources/meetings"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/overview"
+    }
+  }
+}

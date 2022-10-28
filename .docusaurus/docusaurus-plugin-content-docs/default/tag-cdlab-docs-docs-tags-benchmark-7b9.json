@@ -1,0 +1,14 @@
+{
+  "label": "benchmark",
+  "permalink": "/cdlab-docs/docs/tags/benchmark",
+  "allTagsPath": "/cdlab-docs/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "proj-dgb/overview",
+      "title": "Overview",
+      "description": "Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction",
+      "permalink": "/cdlab-docs/docs/proj-dgb/overview"
+    }
+  ]
+}

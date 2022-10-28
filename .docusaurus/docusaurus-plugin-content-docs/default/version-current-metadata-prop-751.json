@@ -203,48 +203,108 @@
       },
       {
         "type": "category",
-        "label": "Political Polarization",
+        "label": "Online Politics",
         "collapsible": true,
         "collapsed": true,
         "items": [
           {
             "type": "link",
             "label": "Overview",
-            "href": "/cdlab-docs/docs/proj-polarization/overview",
-            "docId": "proj-polarization/overview"
+            "href": "/cdlab-docs/docs/proj-ps/overview",
+            "docId": "proj-ps/overview"
           },
           {
             "type": "category",
-            "label": "Temporal Graph Learning",
+            "label": "COVID Polarization",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/cdlab-docs/docs/proj-polarization/tgl/overview",
-                "docId": "proj-polarization/tgl/overview"
+                "href": "/cdlab-docs/docs/proj-ps/covid/overview",
+                "docId": "proj-ps/covid/overview"
               }
             ],
-            "href": "/cdlab-docs/docs/category/temporal-graph-learning"
+            "href": "/cdlab-docs/docs/category/covid-polarization"
           },
           {
             "type": "category",
-            "label": "Misinformation Baselines",
+            "label": "Misinformation Detection",
             "collapsible": true,
             "collapsed": true,
             "items": [
               {
                 "type": "link",
                 "label": "Overview",
-                "href": "/cdlab-docs/docs/proj-polarization/misinfo-baselines/overview",
-                "docId": "proj-polarization/misinfo-baselines/overview"
+                "href": "/cdlab-docs/docs/proj-ps/misinfo-baselines/overview",
+                "docId": "proj-ps/misinfo-baselines/overview"
               }
             ],
-            "href": "/cdlab-docs/docs/category/misinformation-baselines"
+            "href": "/cdlab-docs/docs/category/misinformation-detection"
+          },
+          {
+            "type": "category",
+            "label": "Party Prediction",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/cdlab-docs/docs/proj-ps/party-prediction/overview",
+                "docId": "proj-ps/party-prediction/overview"
+              }
+            ],
+            "href": "/cdlab-docs/docs/category/party-prediction"
+          },
+          {
+            "type": "category",
+            "label": "Polarization",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Overview",
+                "href": "/cdlab-docs/docs/proj-ps/polarization/overview",
+                "docId": "proj-ps/polarization/overview"
+              }
+            ],
+            "href": "/cdlab-docs/docs/category/polarization"
           }
         ],
-        "href": "/cdlab-docs/docs/category/political-polarization"
+        "href": "/cdlab-docs/docs/category/online-politics"
+      },
+      {
+        "type": "category",
+        "label": "Temporal Graph Learning",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/cdlab-docs/docs/proj-tg/overview",
+            "docId": "proj-tg/overview"
+          }
+        ],
+        "href": "/cdlab-docs/docs/category/temporal-graph-learning"
+      },
+      {
+        "type": "category",
+        "label": "Dynamic Graph Benchmark",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Overview",
+            "href": "/cdlab-docs/docs/proj-dgb/overview",
+            "docId": "proj-dgb/overview"
+          }
+        ],
+        "href": "/cdlab-docs/docs/category/dynamic-graph-benchmark"
       }
     ]
   },
@@ -255,10 +315,16 @@
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
+    "proj-dgb/overview": {
+      "id": "proj-dgb/overview",
+      "title": "Overview",
+      "description": "Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction",
+      "sidebar": "tutorialSidebar"
+    },
     "proj-ht/ilp/overview": {
       "id": "proj-ht/ilp/overview",
       "title": "Overview",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "Link prediction is a task with a variety of real-world applications, such as recommendation and data mining. Link prediction models are often transductive, meaning that they learn a fixed representation for each node in a graph. This is a powerful approach as it allows the representations to be pre-trained or optimized end-to-end with downstream objectives, but comes with apparent drawbacks that could limit their applicability in realistic settings where graphs evolve over time. As new nodes and edges appear, these models become stale, suggesting they may struggle to generalize to unseen nodes whose representations have not yet been optimized. An alternative approach is to perform inductive learning, which primarily relies on the presence of node attributes that are not always available in practice.",
       "sidebar": "tutorialSidebar"
     },
     "proj-ht/image-linking/overview": {
@@ -279,22 +345,40 @@
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "proj-polarization/misinfo-baselines/overview": {
-      "id": "proj-polarization/misinfo-baselines/overview",
+    "proj-ps/covid/overview": {
+      "id": "proj-ps/covid/overview",
       "title": "Overview",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "For more information, contact Zachary Yang.",
       "sidebar": "tutorialSidebar"
     },
-    "proj-polarization/overview": {
-      "id": "proj-polarization/overview",
+    "proj-ps/misinfo-baselines/overview": {
+      "id": "proj-ps/misinfo-baselines/overview",
       "title": "Overview",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "Misinformation can have serious harms to public health, the economy, and more. To help counter it, we studied detection methods. We found simple language model baselines are competitive with or can even out-perform state-of-the-art methods. This is particularly the case when train and test data have similar content, corresponding to the real-world task of detecting and containing misinformation on an already known topic or conspiracy. We also found some existing datasets have flaws due to their collection process, particularly when examples of different classes (e.g. real and fake) are collected at different times.",
       "sidebar": "tutorialSidebar"
     },
-    "proj-polarization/tgl/overview": {
-      "id": "proj-polarization/tgl/overview",
+    "proj-ps/overview": {
+      "id": "proj-ps/overview",
       "title": "Overview",
-      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "description": "In this project we study online social interactions and how they shape society. Our team brings together researchers from both computer science and political science. Particular areas of interest include but are not limited to:",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ps/party-prediction/overview": {
+      "id": "proj-ps/party-prediction/overview",
+      "title": "Overview",
+      "description": "Party prediction is a foundation for understanding political interactions - one can't study differences and conflicts between groups without knowing the groups. We began this research with a thorough comparison of existing and novel approaches. We are currently studying new methods to leverage text, and to make predictions in complex multiparty environments.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-ps/polarization/overview": {
+      "id": "proj-ps/polarization/overview",
+      "title": "Overview",
+      "description": "For more information, please contact Kellin.Pelrine@mila.quebec.",
+      "sidebar": "tutorialSidebar"
+    },
+    "proj-tg/overview": {
+      "id": "proj-tg/overview",
+      "title": "Overview",
+      "description": "We currently have projects in three main areas:",
       "sidebar": "tutorialSidebar"
     },
     "resources/compute/cc-cloud/overview": {

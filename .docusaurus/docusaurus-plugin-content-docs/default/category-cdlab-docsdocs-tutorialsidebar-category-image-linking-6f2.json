@@ -1,0 +1,16 @@
+{
+  "title": "Image Linking",
+  "description": "Documentation for the Image Linking project.",
+  "slug": "/category/image-linking",
+  "permalink": "/cdlab-docs/docs/category/image-linking",
+  "navigation": {
+    "previous": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/ner/overview"
+    },
+    "next": {
+      "title": "Overview",
+      "permalink": "/cdlab-docs/docs/proj-ht/image-linking/overview"
+    }
+  }
+}

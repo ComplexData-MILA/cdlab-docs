@@ -2,7 +2,7 @@
   "unversionedId": "proj-ht/ilp/overview",
   "id": "proj-ht/ilp/overview",
   "title": "Overview",
-  "description": "Let's discover Docusaurus in less than 5 minutes.",
+  "description": "Link prediction is a task with a variety of real-world applications, such as recommendation and data mining. Link prediction models are often transductive, meaning that they learn a fixed representation for each node in a graph. This is a powerful approach as it allows the representations to be pre-trained or optimized end-to-end with downstream objectives, but comes with apparent drawbacks that could limit their applicability in realistic settings where graphs evolve over time. As new nodes and edges appear, these models become stale, suggesting they may struggle to generalize to unseen nodes whose representations have not yet been optimized. An alternative approach is to perform inductive learning, which primarily relies on the presence of node attributes that are not always available in practice.",
   "source": "@site/docs/proj-ht/ilp/overview.md",
   "sourceDirName": "proj-ht/ilp",
   "slug": "/proj-ht/ilp/overview",
@@ -11,6 +11,9 @@
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/proj-ht/ilp/overview.md",
   "tags": [],
   "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055,
+  "formattedLastUpdatedAt": "Oct 14, 2018",
   "sidebarPosition": 1,
   "frontMatter": {
     "sidebar_position": 1
@@ -21,7 +24,7 @@
     "permalink": "/cdlab-docs/docs/category/inductive-link-prediction"
   },
   "next": {
-    "title": "Political Polarization",
-    "permalink": "/cdlab-docs/docs/category/political-polarization"
+    "title": "Online Politics",
+    "permalink": "/cdlab-docs/docs/category/online-politics"
   }
 }
