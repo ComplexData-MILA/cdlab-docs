@@ -13,7 +13,7 @@ const katex = require('rehype-katex');
 const config = {
   title: 'Complex Data Lab',
   tagline: 'Resources and documentation for lab projects',
-  url: 'http://complexdata-mila.github.io',
+  url: 'https://complexdata.ml',
   baseUrl: '/cdlab-docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
