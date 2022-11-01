@@ -14,7 +14,7 @@ const config = {
   title: 'Complex Data Lab',
   tagline: 'Resources and documentation for lab projects',
   url: 'https://complexdata.ml',
-  baseUrl: '/cdlab-docs/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
