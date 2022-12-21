@@ -31,12 +31,13 @@ enron = TemporalDataSets(data_name="enron")
 ```
 
 list all available datasets
-```
-data_list = DGB.list_all()
-print (data_list) 
 
-#currently supports all datasets from our paper "Towards Better Evaluation for Dynamic Link Prediction"
-#["canparl", "contacts", "enron", "flights", "lastfm", "mooc", "reddit", "socialEvo", "UCI", "un_trade", "un_vote", "us_Legis", "wikipedia"]
+```python
+data_list = DGB.list_all()
+print(data_list) 
+
+# currently supports all datasets from our paper "Towards Better Evaluation for Dynamic Link Prediction"
+>>> ["canparl", "contacts", "enron", "flights", "lastfm", "mooc", "reddit", "socialEvo", "UCI", "un_trade", "un_vote", "us_Legis", "wikipedia"]
 ```
 
 
