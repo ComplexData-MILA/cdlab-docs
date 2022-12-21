@@ -1,11 +1,50 @@
 ---
-sidebar_position: 1
+# sidebar_position: 1
+title: Projects Overview 
+slug: overview
+tags: [benchmark, temporal graph, open source, datasets]
+last_update:
+  date: 10/28/2022
+  author: Andy Huang, Kellin Pelrine
 ---
 
-# Overview
+## Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction
 
-We currently have projects in three main areas:
+[![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/pdf/2207.10128.pdf)
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-OpenReview-red)](https://openreview.net/forum?id=1GVpwr2Tfdg)
+[![github](https://img.shields.io/badge/Github-link-lightgrey)](https://github.com/fpour/dgb)
+[![medium blog](https://img.shields.io/badge/Medium-Blog-brightgreen)](https://medium.com/@shenyanghuang1996/towards-better-link-prediction-in-dynamic-graphs-cdb8bb1e24e9)
 
+
+* All dynamic graph datasets can be downloaded from [here](https://zenodo.org/record/7213796#.Y1cO6y8r30o).
+* The code repo can be downloaded from [here](https://github.com/fpour/dgb).
+* An accompanying blog post can be found [here](https://medium.com/@shenyanghuang1996/towards-better-link-prediction-in-dynamic-graphs-cdb8bb1e24e9).
+
+
+
+## Introduction
+
+Despite the prevalence of recent success in learning from static graphs, learning from time-evolving graphs remains an open challenge. In this work, we design new, more stringent evaluation procedures for link prediction specific to dynamic graphs, which reflect real-world considerations, to better compare the strengths and weaknesses of methods. First, we create two visualization techniques to understand the reoccurring patterns of edges over time and show that many edges reoccur at later time steps. Based on this observation, we propose a pure memorization baseline called EdgeBank. EdgeBank achieves surprisingly strong performance across multiple settings because easy negative edges are often used in current evaluation setting. To evaluate against more difficult negative edges, we introduce two more challenging negative sampling strategies that improve robustness and better match real-world applications. Lastly, we introduce six new dynamic graph datasets from a diverse set of domains missing from current benchmarks, providing new challenges and opportunities for future research.
+
+
+## Project Team
+
+* Farimah Poursafaei
+
+* Shenyang(Andy) Huang
+
+* Kellin Pelrine
+
+* Abu bakar Daud
+
+* Reihaneh Rabbany
+
+
+### Contact
+For more information, please consult the subprojects in this category or contact farimah.poursafaei@mila.quebec and shenyang.huang@mail.mcgill.ca.
+
+
+
+We also have projects in other areas:
 * Countering Human Trafficking
 * Online Politics
-* Temporal Graphs
