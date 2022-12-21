@@ -41,4 +41,4 @@ Despite the prevalence of recent success in learning from static graphs, learnin
 
 
 ### Contact
-For more information, please consult the subprojects in this category or contact [farimah.poursafaei@mila.quebec](farimah.poursafaei@mila.quebec) and [shenyang.huang@mail.mcgill.ca](shenyang.huang@mail.mcgill.ca).
+For more information, please consult the subprojects in this category or contact [farimah.poursafaei@mila.quebec](mailto:farimah.poursafaei@mila.quebec) and [shenyang.huang@mail.mcgill.ca](mailto:shenyang.huang@mail.mcgill.ca).
