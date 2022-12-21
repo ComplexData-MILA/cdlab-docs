@@ -18,7 +18,7 @@ last_update:
 [![medium blog](https://img.shields.io/badge/Medium-Blog-brightgreen)](https://medium.com/@shenyanghuang1996/towards-better-link-prediction-in-dynamic-graphs-cdb8bb1e24e9)
 
 #### 1. download from [*pip*](https://pypi.org/project/dgb/)
-```
+```shell
 pip install DGB
 ```
 
@@ -27,7 +27,7 @@ pip install DGB
 from DGB.download import TemporalDataSets
 
 data_name = "enron"  #specify the dataset name you want to download here
-enron = DGB.TemporalDataSets(data_name="enron")
+enron = TemporalDataSets(data_name="enron")
 ```
 
 list all available datasets
@@ -54,7 +54,7 @@ For example methods, please see [github](https://github.com/fpour/DGB)
 
 #### 5. Evaluate your method with our provided evaluator
 
-```
+```python
 """
 A code snipet to check the evaluator functionality
 Please consider this code only as an example, and feel free to modify it according to your requirements
@@ -84,7 +84,7 @@ print(eval_result)
 #### Cite Our Work 
 
 If you find the code or datasets useful for your research, please consider citing us:
-```text
+```bibtex
 @inproceedings{poursafaeitowards,
   title={Towards Better Evaluation for Dynamic Link Prediction},
   author={Poursafaei, Farimah and Huang, Andy and Pelrine, Kellin and Rabbany, Reihaneh},
