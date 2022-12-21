@@ -1,10 +1,10 @@
 ---
-# sidebar_position: 1
-title: Get Started
-slug: get started 
+sidebar_position: 2
+title: Getting Started
+slug: start 
 tags: [tutorial, benchmark, temporal graph, open source, datasets]
 last_update:
-  date: 10/28/2022
+  date: 12/21/2022
   author: Andy Huang
 ---
 
@@ -23,7 +23,7 @@ pip install DGB
 ```
 
 #### 2. download dataset
-```
+```python
 from DGB.download import TemporalDataSets
 
 data_name = "enron"  #specify the dataset name you want to download here
@@ -41,7 +41,7 @@ print (data_list)
 
 
 #### 3. process the dataset into ML ready format and obtain train, val, test split
-```
+```python
 enron_tgb = enron.process()
 train_data = enron_tgb["train"]   
 test_data = enron_tgb["test"]

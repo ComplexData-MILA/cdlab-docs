@@ -1,15 +1,14 @@
 ---
-sidebar_position: 2
-title: Dynamic Graph Benchmark
-slug: dgb
+sidebar_position: 1
+title: Overview 
+slug: overview
 tags: [benchmark, temporal graph, open source, datasets]
 last_update:
-  date: 10/28/2022
-  author: Andy Huang
+  date: 12/21/2022
+  author: Andy Huang, Kellin Pelrine
 ---
 
-
-# Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction
+## Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction
 
 [![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/pdf/2207.10128.pdf)
 [![NeurIPS](https://img.shields.io/badge/NeurIPS-OpenReview-red)](https://openreview.net/forum?id=1GVpwr2Tfdg)
@@ -41,11 +40,5 @@ Despite the prevalence of recent success in learning from static graphs, learnin
 * Reihaneh Rabbany
 
 
-
-
-
 ### Contact
-
-For more information, please contact farimah.poursafaei@mila.quebec and shenyang.huang@mail.mcgill.ca.
-
-
+For more information, please consult the subprojects in this category or contact [farimah.poursafaei@mila.quebec](farimah.poursafaei@mila.quebec) and [shenyang.huang@mail.mcgill.ca](shenyang.huang@mail.mcgill.ca).
