@@ -10,6 +10,12 @@ last_update:
 
 ## How to start using DGB package
 
+### Dynamic Graph Benchmark: Towards Better Evaluation for Dynamic Link Prediction
+
+[![arXiv](https://img.shields.io/badge/arXiv-2205.12454-b31b1b.svg)](https://arxiv.org/pdf/2207.10128.pdf)
+[![NeurIPS](https://img.shields.io/badge/NeurIPS-OpenReview-red)](https://openreview.net/forum?id=1GVpwr2Tfdg)
+[![github](https://img.shields.io/badge/Github-link-lightgrey)](https://github.com/fpour/dgb)
+[![medium blog](https://img.shields.io/badge/Medium-Blog-brightgreen)](https://medium.com/@shenyanghuang1996/towards-better-link-prediction-in-dynamic-graphs-cdb8bb1e24e9)
 
 #### 1. download from [*pip*](https://pypi.org/project/dgb/)
 ```
