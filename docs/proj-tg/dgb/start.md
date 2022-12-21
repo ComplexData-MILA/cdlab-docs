@@ -24,10 +24,10 @@ pip install DGB
 
 #### 2. download dataset
 ```python
-from DGB.download import TemporalDataSets
+import DGB 
 
 data_name = "enron"  #specify the dataset name you want to download here
-enron = TemporalDataSets(data_name="enron")
+enron = DGB.TemporalDataSets(data_name="enron")
 ```
 
 list all available datasets
